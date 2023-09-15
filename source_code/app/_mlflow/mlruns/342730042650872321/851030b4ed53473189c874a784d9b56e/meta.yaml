@@ -1,0 +1,15 @@
+artifact_uri: /root/code/app/_mlflow/mlruns/342730042650872321/851030b4ed53473189c874a784d9b56e/artifacts
+end_time: 1694727225439
+entry_point_name: ''
+experiment_id: '342730042650872321'
+lifecycle_stage: active
+run_id: 851030b4ed53473189c874a784d9b56e
+run_name: function-linear-reg-Ridge-momentum-0-method-batch-w_init-zero-lr-0.01
+run_uuid: 851030b4ed53473189c874a784d9b56e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694726705500
+status: 3
+tags: []
+user_id: Maria

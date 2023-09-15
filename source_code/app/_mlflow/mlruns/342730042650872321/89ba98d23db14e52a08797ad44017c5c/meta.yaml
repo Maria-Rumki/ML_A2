@@ -1,0 +1,15 @@
+artifact_uri: /root/code/app/_mlflow/mlruns/342730042650872321/89ba98d23db14e52a08797ad44017c5c/artifacts
+end_time: 1694733026234
+entry_point_name: ''
+experiment_id: '342730042650872321'
+lifecycle_stage: active
+run_id: 89ba98d23db14e52a08797ad44017c5c
+run_name: Fold-1
+run_uuid: 89ba98d23db14e52a08797ad44017c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694732875942
+status: 3
+tags: []
+user_id: Maria

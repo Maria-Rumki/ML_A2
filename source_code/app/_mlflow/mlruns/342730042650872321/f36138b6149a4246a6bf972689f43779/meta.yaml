@@ -1,0 +1,15 @@
+artifact_uri: /root/code/app/_mlflow/mlruns/342730042650872321/f36138b6149a4246a6bf972689f43779/artifacts
+end_time: 1694754817293
+entry_point_name: ''
+experiment_id: '342730042650872321'
+lifecycle_stage: active
+run_id: f36138b6149a4246a6bf972689f43779
+run_name: function-poly-reg-Normal-momentum-0.5-method-mini-w_init-xavier-lr-0.01
+run_uuid: f36138b6149a4246a6bf972689f43779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694754564582
+status: 3
+tags: []
+user_id: Maria

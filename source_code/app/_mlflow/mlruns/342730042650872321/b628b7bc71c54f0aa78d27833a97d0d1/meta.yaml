@@ -1,0 +1,15 @@
+artifact_uri: /root/code/app/_mlflow/mlruns/342730042650872321/b628b7bc71c54f0aa78d27833a97d0d1/artifacts
+end_time: 1694714408863
+entry_point_name: ''
+experiment_id: '342730042650872321'
+lifecycle_stage: active
+run_id: b628b7bc71c54f0aa78d27833a97d0d1
+run_name: function-linear-reg-Normal-momentum-0-method-sto-w_init-xavier-lr-0.0001
+run_uuid: b628b7bc71c54f0aa78d27833a97d0d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694714109520
+status: 3
+tags: []
+user_id: Maria

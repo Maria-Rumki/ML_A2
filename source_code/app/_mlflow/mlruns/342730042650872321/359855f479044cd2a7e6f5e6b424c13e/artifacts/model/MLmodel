@@ -1,0 +1,24 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.7.0
+model_uuid: d8a412245c5d4d9ebfd194c1ae2cfb8e
+run_id: 359855f479044cd2a7e6f5e6b424c13e
+signature:
+  inputs: '[{"type": "double", "name": "max_power"}, {"type": "double", "name": "mileage"},
+    {"type": "double", "name": "log_km_driven"}]'
+  outputs: '[{"type": "double"}]'
+  params: null
+utc_time_created: '2023-09-15 04:49:50.480094'

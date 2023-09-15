@@ -1,0 +1,27 @@
+2023-09-13 08:06:32.785 [info] [Info  - 8:06:31 AM] (797) Pylance language server 2023.9.10 (pyright c70adefc) starting
+2023-09-13 08:06:32.862 [info] [Info  - 8:06:32 AM] (797) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.10/dist
+2023-09-13 08:06:32.874 [info] [Info  - 8:06:32 AM] (797) Starting service instance "root"
+2023-09-13 08:06:33.309 [info] [Info  - 8:06:33 AM] (797) Setting pythonPath for service "root": "/usr/local/bin/python"
+2023-09-13 08:06:33.331 [info] [Info  - 8:06:33 AM] (797) Setting pythonPath for service "root": "/usr/local/bin/python"
+2023-09-13 08:06:33.339 [info] [Warn  - 8:06:33 AM] (797) stubPath /root/typings is not a valid directory.
+2023-09-13 08:06:33.343 [info] [Info  - 8:06:33 AM] (797) Assuming Python version 3.11
+2023-09-13 08:06:37.776 [info] [Info  - 8:06:37 AM] (797) Found 1 source file
+2023-09-13 08:06:50.451 [info] [Info  - 8:06:50 AM] (797) [BG(1)] Long operation: parsing: /root/code/main.py (8741ms)
+2023-09-13 08:06:51.317 [info] [Info  - 8:06:51 AM] (797) [BG(1)] Long operation: indexing: /root/code/main.py (9601ms)
+2023-09-13 08:06:59.470 [info] [Info  - 8:06:59 AM] (797) [BG(1)] Long operation: checking: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:Y140sdnNjb2RlLXJlbW90ZQ==.py (4806ms)
+2023-09-13 08:06:59.475 [info] [Info  - 8:06:59 AM] (797) [BG(1)] Long operation: analyzing: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:Y140sdnNjb2RlLXJlbW90ZQ==.py (7181ms)
+2023-09-13 08:07:05.327 [info] [Info  - 8:07:05 AM] (797) [BG(1)] Long operation: checking: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:Y136sdnNjb2RlLXJlbW90ZQ==.py (5860ms)
+2023-09-13 08:07:05.330 [info] [Info  - 8:07:05 AM] (797) [BG(1)] Long operation: analyzing: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:Y136sdnNjb2RlLXJlbW90ZQ==.py (5861ms)
+2023-09-13 08:07:07.792 [info] [Info  - 8:07:07 AM] (797) [BG(1)] Long operation: checking: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:Y134sdnNjb2RlLXJlbW90ZQ==.py (2336ms)
+2023-09-13 08:07:07.798 [info] [Info  - 8:07:07 AM] (797) [BG(1)] Long operation: analyzing: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:Y134sdnNjb2RlLXJlbW90ZQ==.py (2336ms)
+2023-09-13 08:07:12.304 [info] [Info  - 8:07:12 AM] (797) [BG(1)] Long operation: parsing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.10/dist/bundled/stubs/sklearn/utils/__init__.pyi (2990ms)
+2023-09-13 08:07:13.845 [info] [Info  - 8:07:13 AM] (797) [BG(1)] Long operation: checking: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:Y120sdnNjb2RlLXJlbW90ZQ==.py (5153ms)
+2023-09-13 08:07:13.847 [info] [Info  - 8:07:13 AM] (797) [BG(1)] Long operation: analyzing: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:Y120sdnNjb2RlLXJlbW90ZQ==.py (5153ms)
+2023-09-13 08:07:19.001 [info] [Info  - 8:07:19 AM] (797) [BG(1)] Long operation: checking: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:X51sdnNjb2RlLXJlbW90ZQ==.py (3788ms)
+2023-09-13 08:07:19.002 [info] [Info  - 8:07:19 AM] (797) [BG(1)] Long operation: analyzing: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:X51sdnNjb2RlLXJlbW90ZQ==.py (3788ms)
+2023-09-13 08:07:21.629 [info] [Info  - 8:07:21 AM] (797) [BG(1)] Long operation: analyzing: /root/code/ML_Car_prediction.ipynb:pylance-notebook-cell:pylancePrefixCell.py (29349ms)
+2023-09-13 08:07:22.649 [info] [Info  - 8:07:22 AM] (797) [IDX(2)] Long operation: scan packages /root (39124ms)
+2023-09-13 08:07:26.926 [info] [Info  - 8:07:26 AM] (797) [IDX(2)] Long operation: parsing: /usr/local/lib/python3.11/xml/__init__.py (3061ms)
+2023-09-13 08:07:27.111 [info] [Info  - 8:07:27 AM] (797) [IDX(2)] Long operation: indexing: /usr/local/lib/python3.11/xml/__init__.py (3249ms)
+2023-09-13 08:07:35.417 [info] [Info  - 8:07:35 AM] (797) [IDX(2)] Long operation: index execution environment /root (11591ms)
+2023-09-13 08:07:35.421 [info] [Info  - 8:07:35 AM] (797) [IDX(2)] Long operation: index packages /root (11844ms)

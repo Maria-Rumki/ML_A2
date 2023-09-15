@@ -1,0 +1,1 @@
+2023-09-14 16:04:57.716 [error] node #1: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com

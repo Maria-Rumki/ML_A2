@@ -1,0 +1,101 @@
+2023-09-14 16:04:42.088 [info] 
+
+
+
+
+2023-09-14 16:04:42.923 [info] Extension host agent started.
+2023-09-14 16:04:47.923 [debug] No uninstalled extensions found.
+2023-09-14 16:08:45.560 [info] [127.0.0.1][e28c0323][ManagementConnection] New connection established.
+2023-09-14 16:08:46.066 [info] Log level changed to info
+2023-09-14 16:08:50.805 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] New connection established.
+2023-09-14 16:08:51.633 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] <1678> Launched Extension Host Process.
+2023-09-14 16:14:50.958 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] The client has reconnected.
+2023-09-14 16:15:21.961 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] The client has reconnected.
+2023-09-14 16:15:57.972 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] The client has reconnected.
+2023-09-14 16:16:31.754 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] The client has reconnected.
+2023-09-14 16:16:58.895 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] The client has reconnected.
+2023-09-14 16:17:30.730 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] The client has reconnected.
+2023-09-14 16:18:58.388 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] <1678> Starting WebSocket: RAW/api/kernels/02dc226b-1cdf-47cb-8c6c-c210606af6f3
+
+2023-09-14 16:25:31.629 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] <1678> Starting WebSocket: RAW/api/kernels/2a4b5535-01af-4e73-a310-88d25625c580
+
+2023-09-14 16:25:32.721 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] <1678> Kernel: starting (2a4b5535-01af-4e73-a310-88d25625c580)
+
+2023-09-14 16:51:44.702 [error] No ptyHost response to createProcess after 5 seconds
+2023-09-14 16:59:45.016 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-14 17:00:06.550 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-14 17:05:20.708 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-14 17:06:05.547 [info] [127.0.0.1][e28c0323][ManagementConnection] The client has reconnected.
+2023-09-14 17:06:07.023 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] The client has reconnected.
+2023-09-14 17:26:07.214 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-15 05:33:29.559 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] <1678> Starting WebSocket: RAW/api/kernels/938825c7-c54d-4d86-9611-425838a2646c
+
+2023-09-15 05:34:22.611 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-15 05:34:26.847 [info] [127.0.0.1][e28c0323][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-15 05:34:30.094 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-15 05:34:31.481 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-15 05:34:31.482 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-15 05:34:31.483 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-15 05:34:31.483 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-15 05:34:31.484 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-15 05:34:31.484 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-15 05:34:31.485 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-15 05:34:31.486 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/6509174151d557a81c9d0b5f8a5a1e9274db5585/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-15 05:34:31.487 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-15 05:34:36.669 [error] No ptyHost heartbeat after 12 seconds
+2023-09-15 05:35:04.533 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-15 05:35:16.496 [info] [127.0.0.1][f62e4207][ExtensionHostConnection] <1678> Extension Host Process exited with code: 0, signal: null.

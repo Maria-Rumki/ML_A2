@@ -1,0 +1,15 @@
+artifact_uri: /root/code/app/_mlflow/mlruns/342730042650872321/5f7e980b7a324e828c322a71ce6b9410/artifacts
+end_time: 1694742340690
+entry_point_name: ''
+experiment_id: '342730042650872321'
+lifecycle_stage: active
+run_id: 5f7e980b7a324e828c322a71ce6b9410
+run_name: function-linear-reg-Lasso-momentum-0.5-method-sto-w_init-zero-lr-0.01
+run_uuid: 5f7e980b7a324e828c322a71ce6b9410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694741889000
+status: 3
+tags: []
+user_id: Maria
